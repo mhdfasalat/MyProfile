@@ -1,0 +1,178 @@
+body{
+    margin: 0px;
+}
+.row
+{
+    width: 100%;
+    height: 100%;
+    float: left;
+ 
+}
+.model
+{
+    display:block ;
+    float: left;
+    margin-left: 10px;
+}
+.sp1
+{
+    background-color: aqua;
+    width: 100%;
+
+}
+.sp2
+{
+    margin-top: 23px;
+
+
+}
+.sp3
+{
+    
+
+    width: 122px;
+    height: 42px;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none;
+    background-color: hsla(209, 61%, 71%, 0.5);
+    
+
+}
+.sp4
+{
+    
+
+    float: right;
+    margin-top: 13px;
+
+
+
+    
+}
+
+.model1
+{
+    display:block ;
+    float: left;
+    margin-left: 10px;
+
+
+}
+.model2
+{
+    display:block ;
+    float: left;
+    margin-left: 10px;
+
+
+}
+.sp3:hover
+{
+    background-color:#123a3a80;
+    color: #ffffff;
+    cursor: pointer;
+    
+    
+}
+.sp5
+{
+    background: linear-gradient(to bottom, #FFFBFF, #96798a52);
+}
+.model3
+{
+    display:block ;
+    float: left;
+    text-align: center;
+
+
+
+
+
+
+}
+.sp6{
+    font-size: 30px;
+ 
+    text-align: center;
+    margin-top: 181px;
+    
+}
+.sp7
+{
+    margin-left: 2px;
+    margin-top: 79px;
+}
+
+
+}
+.sp8
+{
+
+    margin-top: -27px;
+}
+.sp9
+{
+    
+}
+.model4
+{
+    display:block ;
+    float: left;
+    text-align: center;
+    height: 65px;
+    background-color: #96798a81;
+    
+}
+.model5
+{
+    display:block ;
+    float: left;
+    margin-left: 10px;
+
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+
+
+
+
+
+}
+.sp10
+{
+    width: 80%;
+    height: 80%;
+    border-style: solid ;
+    border-width: 5px;
+    background-color: aliceblue;
+    border-color: black;
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    background-image: url("images/service.png");
+    background-repeat: no-repeat;
+    
+
+}
+.sp11
+{
+    margin-left: 20px;
+    font-size: 20px;
+
+
+}
+p{
+    margin-left: 20px;
+}
+.sp12
+{
+    position: fixed;
+    z-index: 1;
+
+
+   
+}
